@@ -6,7 +6,7 @@ import java.util.Collections;
  * @author Zackery Loy
  * @version 1/12/2026
  */
-public class Main
+public class ArrayListPractice
 {
 
     public static void main(String[] args) {
